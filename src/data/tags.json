@@ -1,0 +1,14 @@
+[
+  { "id": "ai-literacy", "name": "AI Literacy" },
+  { "id": "research", "name": "Research" },
+  { "id": "data", "name": "Data" },
+  { "id": "media-studies", "name": "Media Studies" },
+  { "id": "algorithmic-culture", "name": "Algorithmic Culture" },
+  { "id": "education", "name": "Education" },
+  { "id": "publications", "name": "Publications" },
+  { "id": "technology", "name": "Technology" },
+  { "id": "japan", "name": "Japan" },
+  { "id": "reflections", "name": "Reflections" },
+  { "id": "writing", "name": "Writing" },
+  { "id": "ideas", "name": "Ideas" }
+]

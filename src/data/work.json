@@ -1,0 +1,66 @@
+[
+  {
+    "id": "data-quality-engineer-snapp",
+    "role": "industry",
+    "title": "Data Quality Engineer",
+    "organization": "Snapp!",
+    "location": "Tehran, Iran",
+    "startDate": "Jun 2024",
+    "endDate": "Present",
+    "description": "Ensuring the reliability and accuracy of data pipelines and analytical systems at Iran's leading ride-hailing platform.",
+    "highlights": [
+      "Monitoring and validating data quality across large-scale data pipelines",
+      "Collaborating with data engineering teams to identify and resolve data anomalies",
+      "Developing automated quality checks using Python and SQL"
+    ],
+    "technologies": ["Python", "SQL", "T-SQL", "Spark", "DBeaver", "Power BI"]
+  },
+  {
+    "id": "software-test-engineer-snapp",
+    "role": "industry",
+    "title": "Software Test Engineer",
+    "organization": "Snapp!",
+    "location": "Tehran, Iran",
+    "startDate": "Jun 2023",
+    "endDate": "Jun 2024",
+    "description": "Designed and executed test strategies for software systems at scale, ensuring product reliability for millions of users.",
+    "highlights": [
+      "Developed and maintained test plans and test cases for core platform features",
+      "Applied ML/AI testing methodologies to validate intelligent system components",
+      "Collaborated with cross-functional teams to improve software quality processes"
+    ],
+    "technologies": ["Python", "SQL", "ML/AI Testing"]
+  },
+  {
+    "id": "qa-teamlead-idekavan",
+    "role": "industry",
+    "title": "Quality Assurance Engineer Teamlead",
+    "organization": "Idekavan",
+    "location": "Tehran, Iran",
+    "startDate": "Jan 2023",
+    "endDate": "May 2023",
+    "description": "Led the QA engineering team, overseeing quality assurance processes and mentoring team members to maintain high software standards.",
+    "highlights": [
+      "Led and coordinated the QA team's testing efforts",
+      "Established quality standards and testing best practices",
+      "Collaborated with product and development teams on release planning"
+    ],
+    "technologies": ["Python", "SQL", "Microsoft Office"]
+  },
+  {
+    "id": "qa-specialist-idekavan",
+    "role": "industry",
+    "title": "Quality Assurance Specialist",
+    "organization": "Idekavan",
+    "location": "Tehran, Iran",
+    "startDate": "Apr 2021",
+    "endDate": "Jan 2023",
+    "description": "Performed comprehensive software quality assurance, developing test cases and ensuring product reliability across the development lifecycle.",
+    "highlights": [
+      "Designed and executed functional, regression, and exploratory test cases",
+      "Identified and reported defects, collaborating with developers on resolution",
+      "Contributed to improving QA workflows and documentation"
+    ],
+    "technologies": ["Python", "SQL", "Microsoft Office"]
+  }
+]

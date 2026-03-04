@@ -1,0 +1,33 @@
+[
+  {
+    "id": "masters-japanese-studies",
+    "degree": "M.A.",
+    "field": "Japanese Studies",
+    "institution": "University of Tehran",
+    "location": "Tehran, Iran",
+    "startYear": 2019,
+    "endYear": 2021,
+    "description": "Ranked 2nd out of 3000 candidates in the entrance examination. Gained expertise in both qualitative and quantitative research methodologies. Served as a Teaching Assistant for Professor Shaho Sabar, developing a passion for statistical analysis and quantitative research.",
+    "achievements": [
+      "Ranked 2nd out of 3000 candidates in entrance exam",
+      "Teaching Assistant for Professor Shaho Sabar",
+      "Thesis: 'Disability Representation in Japanese Anime: The Case Study of Watching Anime Influence on Iranian Audiences' Thinking of Disability'"
+    ],
+    "gpa": "17.52/20"
+  },
+  {
+    "id": "bachelors-journalism",
+    "degree": "B.Sc.",
+    "field": "Journalism",
+    "institution": "Allameh Tabataba'i University",
+    "location": "Tehran, Iran",
+    "startYear": 2015,
+    "endYear": 2019,
+    "description": "Studied communications theories, statistics, and research methodologies for the digital era. Gained proficiency in R and RStudio and a foundational understanding of Python, applying these skills to conduct statistical analyses.",
+    "achievements": [
+      "Proficiency in R, RStudio, and Python for statistical analysis",
+      "Coursework in communications theories, statistics, and research methods"
+    ],
+    "gpa": "17.11/20"
+  }
+]
